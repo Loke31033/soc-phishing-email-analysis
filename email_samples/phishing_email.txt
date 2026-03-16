@@ -1,0 +1,15 @@
+From: security@micros0ft-support.com
+To: employee@company.com
+Subject: Urgent Account Verification
+
+Dear User,
+
+Your Microsoft account has been flagged for suspicious login activity.
+
+To secure your account immediately, please verify your credentials below:
+
+http://microsoft-login-verification.net/login
+
+Failure to verify within 24 hours may result in account suspension.
+
+Microsoft Security Team

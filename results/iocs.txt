@@ -1,0 +1,13 @@
+IOC REPORT
+
+Suspicious Domain
+microsoft-login-verification.net
+
+Suspicious URL
+http://microsoft-login-verification.net/login
+
+Spoofed Sender
+security@micros0ft-support.com
+
+Technique
+Brand impersonation phishing
